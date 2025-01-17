@@ -74,3 +74,35 @@ nav li a{
 .banner-picture{
     width: 580px;
 }
+.secondary-bg{
+    background-color: #fff8f3; 
+}
+.section-title{
+    font-size: 35px;
+    font-weight: bold ;
+    color: black;
+}
+.section-description{
+    font-size: 18px;
+    color: tomato;
+}
+/* main style*/
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+/* about section*/
+.about{
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+    margin-top: 130px;
+}
+.item-title-description{
+    font-weight: 600;
+
+}
+.about-items{
+    display: flex;
+    justify-content: space-around;
+}
